@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/cgpa1"
+        android:title="CGPA1"
+        />
+
+    <item android:id="@+id/cgpa2"
+        android:title="CGPA2"
+        />
+
+    <item android:id="@+id/cgpa3"
+        android:title="CGPA3"
+        />
+
+    <item android:id="@+id/cgpa4"
+        android:title="CGPA4"
+        />
+</menu>
